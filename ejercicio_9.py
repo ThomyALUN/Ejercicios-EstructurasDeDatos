@@ -4,8 +4,8 @@
 n=int(input("Ingrese la cantidad de valores que desea calcular de la serie de pi: "))
 suma=0
 for i in range(n):
-    #La fórmula es (-1)^n*(1/2n+1). n comienza en 0
-    suma=suma+pow(-1,(n))*(1/(2*n+1))
+    #La fórmula es (-1)^i*(1/2i+1). n comienza en 0
+    suma=suma+pow(-1,i)*(1/(2*i+1))
 suma=suma*4
 
 print(f"El valor aproximado de pi con {n} valores en la sumatoria de Leibniz es de {suma}")
