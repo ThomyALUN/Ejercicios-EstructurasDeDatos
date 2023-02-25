@@ -1,6 +1,6 @@
 from math import acos, pi
 
-# Ejercicio #1: Leer tres valores, determinar si corresponden a los lados de un triángulo. Si es así, calcular
+# 1. Leer tres valores, determinar si corresponden a los lados de un triángulo. Si es así, calcular
 # y escribir el perímetro si el triángulo es rectángulo o su área, en otro caso.
 
 l1=float(input("Ingrese el tamaño del primer lado: "))

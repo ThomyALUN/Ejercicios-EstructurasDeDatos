@@ -1,4 +1,4 @@
-# Diseñar un programa que lea 20 valores y determine y escriba cuál fue el mayor valor
+# 8. Diseñar un programa que lea 20 valores y determine y escriba cuál fue el mayor valor
 # leído.
 
 #Forma 1: Usando una lista y la función max(). Al final los valores quedan almacenados

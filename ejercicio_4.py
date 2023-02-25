@@ -1,3 +1,6 @@
+# 4. Leer las coordenadas (x, y) de un punto en el plano cartesiano, determinar y escribir a qué
+# cuadrante pertenece basado en el signo, de acuerdo con el gráfico mostrado.
+
 x=float(input("Ingrese el valor de la coordenada X: "))
 y=float(input("Ingrese el valor de la coordenada Y: "))
 

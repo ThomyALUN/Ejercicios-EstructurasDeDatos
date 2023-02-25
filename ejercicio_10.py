@@ -1,4 +1,4 @@
-# Diseñar un algoritmo que convierta una temperatura dada en una escala a temperatura en 
+# 10. Diseñar un algoritmo que convierta una temperatura dada en una escala a temperatura en 
 # otra escala que se pida.
 # La relación entre las diferentes escalas de temperaturas está dada por la siguiente relación:
 # C/5 = R/4 = (F - 32) / 9

@@ -1,4 +1,4 @@
-# Leer el nombre, el peso y la talla de una persona, calcular su índice de masa corporal.
+# 2. Leer el nombre, el peso y la talla de una persona, calcular su índice de masa corporal.
 # Determinar y escribir si está en estado de bajo peso, normal, sobrepreso, u obesidad.
 
 nombre=input("Ingrese su nombre: ")

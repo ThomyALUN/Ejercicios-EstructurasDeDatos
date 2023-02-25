@@ -1,4 +1,4 @@
-# Leer un ángulo en grados determinar y escribir a qué cuadrante pertenece.
+# 6. Leer un ángulo en grados determinar y escribir a qué cuadrante pertenece.
 
 angulo=float(input("Ingrese un ángulo: "))
 anguloMod=angulo%360    #Se saca el módulo para que los ángulos menores a 0° o mayores a 360° se traten como múltiplos
