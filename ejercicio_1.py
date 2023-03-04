@@ -1,7 +1,7 @@
-from math import acos, pi
-
 # 1. Leer tres valores, determinar si corresponden a los lados de un triángulo. Si es así, calcular
 # y escribir el perímetro si el triángulo es rectángulo o su área, en otro caso.
+
+from math import acos, pi
 
 l1=float(input("Ingrese el tamaño del primer lado: "))
 l2=float(input("Ingrese el tamaño del segundo lado: "))
