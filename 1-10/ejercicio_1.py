@@ -7,7 +7,7 @@ l1=float(input("Ingrese el tamaño del primer lado: "))
 l2=float(input("Ingrese el tamaño del segundo lado: "))
 l3=float(input("Ingrese el tamaño del tercer lado: "))
 print("")
-
+print("hola")
 if l1>0 and l2>0 and l3>0:
     try:
         angulo_1=acos((pow(l1,2)-pow(l2,2)-pow(l3,2))/(-2*l2*l3))*(180/pi)
